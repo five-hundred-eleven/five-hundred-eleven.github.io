@@ -1,11 +1,3 @@
-# Assignment!
-
-Fill out the template *twice*, for two different ideas.
-
-Then compare and contrast and select one as the idea you're leaning towards
-working on for your project week.
-
-
 # Ideas for data storytelling - Idea 1
 
 ## You
@@ -27,6 +19,7 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
+participation in combat sports in the general population vs number of high-ranked professional fighters
 
 2. Trend related to the news
 
@@ -36,12 +29,15 @@ Can you apply the templates to your topics?
 
 4. Answering a question people care about
 
+domestic violence vs participation in combat sports in the general population
 
 5. Valuable to businesses
 
+which areas of business that advertise with the UFC get the highest customer conversion rate
 
 6. What's the most popular?
 
+predictive model of which low-ranking UFC fighters are likely to become successful
 
 7. Cost/Money rankings
 
@@ -50,6 +46,10 @@ Can you apply the templates to your topics?
 
 What misconceptions do people have about your topic?
 
+People sometimes assume that people who participate in combat sports are violent people. While it is true 
+that some fighters have gotten in trouble for violent behavior (such as the recent incident in which Conor McGregor
+hit an old man), my own belief is that combat sports can provide a healthy outlet for aggressive tendencies and 
+do not **cause** violent behavior. I would be interested in investigating this further.
 
 ## Examples
 
