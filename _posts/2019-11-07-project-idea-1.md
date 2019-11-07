@@ -4,12 +4,15 @@
 
 What do you care about?
 
+Martial arts, audio enhancement such as noise gates, history, 
 
 What do you know about?
 
+History, computers
 
 What decisions do you face?
 
+Where to potentially move, where to work
 
 ## Seven templates
 
