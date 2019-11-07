@@ -4,7 +4,7 @@
 
 What do you care about?
 
-Martial arts, audio enhancement such as noise gates, history, 
+Martial arts, audio enhancement such as noise gates, history, language learning.
 
 What do you know about?
 
@@ -72,20 +72,11 @@ Could you do a new topic, with the same "style"?
 
 Where could you search for data about your topic?
 
+UFC has a "fightmetrics" database in it's website.
+
 ---
 
 # Ideas for data storytelling - Idea 2
-
-## You
-
-What do you care about?
-
-
-What do you know about?
-
-
-What decisions do you face?
-
 
 ## Seven templates
 
