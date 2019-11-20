@@ -18,3 +18,5 @@ The first part of our question requires us to find countries with high UFC parti
 ![fighters-by-country](https://github.com/ekoly/DS-Unit-1-Build/blob/master/img/num-fighters-choropleth.png?raw=true)
 
 ![per-capita](https://github.com/ekoly/DS-Unit-1-Build/blob/master/img/per-capita-fighters-choropleth.png?raw=true)
+
+![test](https://raw.githubusercontent.com/ekoly/DS-Unit-1-Build/master/ipynb/plotly_graph.html)
