@@ -15,5 +15,5 @@ The first part of our question requires us to find countries with high UFC parti
 1. Countries with the highest total number of fighters
 2. Countries with the highest per capita number of fighters
 
-<iframe src="https://stromsy.nfshost.com/content/plotly_graph.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/plotly_graph.html"></iframe>
 
