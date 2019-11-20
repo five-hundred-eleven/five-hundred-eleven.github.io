@@ -18,7 +18,20 @@ The following plots were made using Sherdog's UFC datasets (linked at the bottom
 
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/num-ufc-fighters.html"></iframe>
 
+We see that the highest total participation is in the U.S. and Brazil. But, it should be noted that these countries also have high populations. Therefore we will look at the per capita participation 
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/per-capita-ufc-fighters.html"></iframe>
+
+We now see some lower population countries darkly shaded including Canada, Iceland, Ireland, Sweden, Poland, and Russia. Since Iceland, Ireland, and Sweden have a low number of total fighters we will rule these countries out. Our final list of countries of interest is the U.S., Brazil, Japan, Poland, Canada, and Russia.
+
+## Which outcomes are common among fighters from each country?
+
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Brazil.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-United States.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Japan.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Russia.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Canada.html"></iframe>
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Poland.html"></iframe>
 
 ## Resources
 * [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
