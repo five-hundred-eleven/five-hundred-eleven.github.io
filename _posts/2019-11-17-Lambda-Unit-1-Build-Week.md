@@ -30,24 +30,43 @@ The below charts, for each country, show the percentage of fights won by **decis
 
 #### Brazil
 
-Early on we see 100% of fights were won by decision (Joyce Gracie). The ratios even out as time goes on. Interestingly in 2018 we see more wins by TKOs than Decisions for the first time since 2008. Notable Brazilian athletes that achieved TKOs in 2018 include Amanda Nunes.
+Early on the chart we see 100% of fights were won by submission (Joyce Gracie). The ratios even out as time goes on. Interestingly in 2018 we see more wins by TKOs than Decisions for the first time since 2008. Notable Brazilian athletes that achieved TKOs in 2018 include Amanda Nunes.
 
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Brazil.html"></iframe>
 
 #### USA
+
+American fighters lost the majority of their early fights, with most wins coming from submission (Ken Shamrock). The stats fluctuate significantly through the 2000s. Since 2009, the numbers have been fairly constant, with most fights won by decision, then TKO, and lastly submission.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-United States.html"></iframe>
 
 #### Japan
+
+Japan won 1 fight by submission in 1997 (Kazushi Sakuraba). Japan's participation in the UFC has been fairly low which cause the numbers to fluctuate year-by-year. Since 2011 by far the most fights have been won by decision.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Japan.html"></iframe>
 
 #### Russia
+
+Russia has become more prevalent in recent years, winning a large majority of their fights in 2017 and 2018. In 2018 Russia won more fights by submission than by TKO (Khabib Nurmagomedov, Islam Makhachev).
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Russia.html"></iframe>
 
 #### Canada
+
+Canada has a high per-capita number of UFC fighters. In recent years Canada has a fairly low percentage of total victories, with most victories being by decision except in 2016.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Canada.html"></iframe>
 
 #### Poland
+
+Poland does not appear in the records until 2005. Early in the charts Poland had a very high percentage of wins by TKO. Since 2014 most wins have been by decision. Interestingly Poland has produced a high number of top-ranking female athletes including Joanna Jędrzejczyk and Karolina Kowalkiewicz.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Poland.html"></iframe>
+
+## Conclusions
+
+Some of the trends are clearly due to rule changes in the UFC. For example early fights had no time limit so there were no wins by decision. Also, in the 1990s Brazilian Jiu Jitsu was unfamiliar to many mixed martial artists, which meant that there was a high probability in win by submission in fights with a BJJ practitioner vs a non-BJJ practitioner. In contrast, in modern MMA all serious competitors have some degree of training in BJJ.
 
 ## Resources
 * [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
