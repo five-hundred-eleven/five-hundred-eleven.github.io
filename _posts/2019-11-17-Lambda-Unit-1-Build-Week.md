@@ -54,13 +54,19 @@ Russia has become more prevalent in recent years, winning a large majority of th
 
 #### Canada
 
+Canada had a high percentage of TKOs early on. Since 2009 most wins have been by decision.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Canada.html"></iframe>
 
 #### Poland
 
+Polish athletes achieved many TKOs from 2005 to 2013. Since 2014 most wins were by decision.
+
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Poland.html"></iframe>
 
 #### All Countries
+
+This plot shows the UFC as a whole. In the 1990s, Submissions were most common. In the 2000s, KOs/TKOs were frequent. Since 2009 most wins have been by decision.
 
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-total.html"></iframe>
 
@@ -69,7 +75,6 @@ Russia has become more prevalent in recent years, winning a large majority of th
 
 Some of the trends are clearly due to rule changes in the UFC. For example early fights had no time limit so there were no wins by decision. In the past decade by far most UFC fights ended in decision.
 
-In the 1990s Brazilian Jiu Jitsu was unfamiliar to many mixed martial artists, which meant that there was a high probability in win by submission in fights with a BJJ practitioner vs a non-BJJ practitioner. In contrast, in modern MMA all serious competitors have some degree of training in BJJ.
 
 ## Resources
 * [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
