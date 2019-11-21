@@ -75,6 +75,9 @@ This plot shows the UFC as a whole. In the 1990s, Submissions were most common. 
 
 Some of the trends are clearly due to rule changes in the UFC. For example early fights had no time limit so there were no wins by decision. In the past decade by far most UFC fights ended in decision.
 
+#### Which country is dominant?
+
+Brazil has always had a high percentage of wins, but in recent years Russian athletes have been the most dominant.
 
 ## Resources
 * [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
