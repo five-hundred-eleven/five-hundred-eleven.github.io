@@ -1,4 +1,4 @@
-The goal of this project was to identify interesting trends in MMA by exploring publicly available UFC data.
+This is my Unit 1 project for Lambda School. The goal of this project was to identify interesting trends in MMA by exploring publicly available UFC data.
 
 ## Research Question
 For each of a few countries with high UFC participation, plot the proportion of wins to total number of fights by year. "Wins" are further broken down into Decisions, TKOs, and Submissions.
