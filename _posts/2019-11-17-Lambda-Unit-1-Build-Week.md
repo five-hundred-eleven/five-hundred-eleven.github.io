@@ -12,21 +12,21 @@ The first part of our question requires us to find countries of interest i.e. co
 3. Countries which are hosting the greatest total number of fighters
 4. Countries which are hosting the greatest per capita number of fighters
 
-I was not able to find existing datasets that include birthplaces of UFC fighters (there are websites that have this information but I don't have time to scrape them). Therefore, I had to use "countries that host UFC fighters" instead of "countries in which UFC fighters were born". This was disappointing because there are some countries such as Nigeria in which several high-profile fighters were born but none were hosted. Moving forward we should keep in mind that the countries we are looking at may host fighters that were not born there.
+Options one and two were eliminated because data was unavailable. Option three is skewed in favor of high population countries. Four was the best option.
 
 The following plots were made using Sherdog's UFC datasets (linked at the bottom of the page).
 
-<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/num-ufc-fighters.html"></iframe>
-
-We see that the highest total participation is in the U.S. and Brazil. This might be explained by these countries having high populations. Therefore we will also look at the per capita participation.
-
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/per-capita-ufc-fighters.html"></iframe>
 
-We now see some lower population countries darkly shaded including Australia, Canada, Iceland, Ireland, Sweden, Poland, and Russia. Since Iceland, Ireland, and Sweden have a low number of total fighters we will rule these countries out. Our final list of countries of interest is the U.S., Brazil, Japan, Poland, Canada, and Russia.
+We see that the highest per capita participation is in the U.S., Brazil, and Canada. Iceland and Ireland (low population countries) also have a high per capita participation. It is difficult to see the difference between medium-to-low participation countries. For this reason, we will make another graph with high-participation countries omitted.
+
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/low-density-per-capita-ufc-fighters.html"></iframe>
+
+There are medium levels of participation in England, Sweden, Russia, Australia, and Poland. Our final list of countries will be the U.S., Brazil, Canada, Russia, Poland, and Japan.
 
 ## Which outcomes are common among fighters from each country?
 
-The below charts, for each country, show the percentage of fights won by **decision** (split or unanimous), **submission**, or **knockout** out of the **total number of fights**. The fights that were lost or that were ended by disqualification are not shown.
+Here are the percentage of fights won by **decision** (split or unanimous), **submission**, or **knockout** (KO or TKO). The **total wins** are also displayed. Losses and disqualifications are not shown.
 
 #### Brazil
 
@@ -42,7 +42,7 @@ American fighters lost the majority of their early fights, with most wins coming
 
 #### Japan
 
-Japan won 1 fight by submission in 1997 (Kazushi Sakuraba). Japan's participation in the UFC has been fairly low which cause the numbers to fluctuate year-by-year. Since 2011 by far the most fights have been won by decision.
+Japan won 1 fight by submission in 1997 (Kazushi Sakuraba). Japan's participation in the UFC has been low which causes the numbers to fluctuate.
 
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Japan.html"></iframe>
 
@@ -54,15 +54,16 @@ Russia has become more prevalent in recent years, winning a large majority of th
 
 #### Canada
 
-Canada has a high per-capita number of UFC fighters. In recent years Canada has a fairly low percentage of total victories, with most victories being by decision except in 2016.
-
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Canada.html"></iframe>
 
 #### Poland
 
-Poland does not appear in the records until 2005. Early in the charts Poland had a very high percentage of wins by TKO. Since 2014 most wins have been by decision. Interestingly Poland has produced a high number of top-ranking female athletes including Joanna Jędrzejczyk and Karolina Kowalkiewicz.
-
 <iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-Poland.html"></iframe>
+
+#### All Countries
+
+<iframe id="igraph-num-fighters" scrolling="no" width="100%" height="500px" src="https://stromsy.nfshost.com/content/ufc-fight-outcomes-total.html"></iframe>
+
 
 ## Conclusions
 
