@@ -66,7 +66,9 @@ Poland does not appear in the records until 2005. Early in the charts Poland had
 
 ## Conclusions
 
-Some of the trends are clearly due to rule changes in the UFC. For example early fights had no time limit so there were no wins by decision. Also, in the 1990s Brazilian Jiu Jitsu was unfamiliar to many mixed martial artists, which meant that there was a high probability in win by submission in fights with a BJJ practitioner vs a non-BJJ practitioner. In contrast, in modern MMA all serious competitors have some degree of training in BJJ.
+Some of the trends are clearly due to rule changes in the UFC. For example early fights had no time limit so there were no wins by decision. In the past decade by far most UFC fights ended in decision.
+
+In the 1990s Brazilian Jiu Jitsu was unfamiliar to many mixed martial artists, which meant that there was a high probability in win by submission in fights with a BJJ practitioner vs a non-BJJ practitioner. In contrast, in modern MMA all serious competitors have some degree of training in BJJ.
 
 ## Resources
 * [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
