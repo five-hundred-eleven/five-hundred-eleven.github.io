@@ -26,7 +26,7 @@ There are medium levels of participation in England, Sweden, Russia, Australia, 
 
 ## Which outcomes are common among fighters from each country?
 
-Here are the percentage of fights won by **decision** (split or unanimous), **submission**, or **knockout** (KO or TKO). The **total wins** are also displayed. Losses and disqualifications are not shown.
+Here are the percentages of fights won by **decision** (split or unanimous), **submission**, or **knockout** (KO or TKO). The **total wins** are also displayed. Losses and disqualifications are not shown. The percentages are out of the total number of fights fought by athletes from the given country.
 
 #### Brazil
 
