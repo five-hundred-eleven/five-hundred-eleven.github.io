@@ -1,17 +1,17 @@
 # --- General options --- #
 
 # Name of website
-title: Lambda Projects
+title: Erik Cowley
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Erik Cowley's Portfolio
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://datascience.stromsy.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,9 +21,10 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - github: "https://github.com/ekoly"
-  Author's home: "https://datascience.stromsy.com"
+  Github: "https://github.com/ekoly"
+#  Resources:
+#    - github: "https://github.com/ekoly"
+#  Author's home: "https://datascience.stromsy.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -90,7 +91,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -153,7 +154,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
