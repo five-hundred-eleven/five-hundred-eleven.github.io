@@ -1,6 +1,4 @@
-# UFC Predictions
-
-[ufcpredict.stromsy.com/predict](ufcpredict.stromsy.com/predict)
+[Link to the app](ufcpredict.stromsy.com/predict)
 
 ### Which Fighter Would Win?
 
