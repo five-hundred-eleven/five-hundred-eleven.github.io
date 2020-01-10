@@ -40,9 +40,15 @@ Here are some notes to help you interpret it:
 ![positive features](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/positive-features.png?raw=true)
 
 ### Negative Features
+
+This graphic shows features that caused predictions to become worse when included in the analysis.
+
 ![negative features](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/negative-features.png?raw=true)
 
-### PDP Plots
+### Isolated Partial Dependance Plots
+
+The following plots show the likelyhood of a win based on individual features. Higher y-values represent higher likelyhood of winning the fight.
+
 ![age ratio](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/age-ratio.png?raw=true)
 ![reach ratio](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/reach-ratio.png?raw=true)
 ![current win streak](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/current-win-streak.png?raw=true)
