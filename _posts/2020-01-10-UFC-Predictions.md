@@ -1,4 +1,4 @@
-[Link to the app](ufcpredict.stromsy.com/predict)
+[Link to the app](https://ufcpredict.stromsy.com/predict)
 
 ### Which Fighter Would Win?
 
