@@ -1,5 +1,4 @@
 <h1> AirPrice - AirBnB Price Optimization </h1>
-
 <p>
   The app is live at <a href="https://airprice.now.sh/">https://airprice.now.sh/</a>. The app was a team effort,
   see <a href="https://rg-optimalpricer.netlify.com/about.html">this page</a> for the team members and roles.
@@ -7,12 +6,27 @@
 </p>
 
 <h3> What is it for? </h3>
-
 <p>
   Many people who have AirBnB listings set the price either too low or too high. If the price is too low
   then the room will always be filled, but they aren't getting as much money as they could from the listing.
   If the price is too high, the room will not be filled most of the time and the profits will not be optimal.
   Our goal was to suggest an optimal price at which the listing can be filled most of the time.
+</p>
+<p>
+  Since the app was built in 1 week with limited resources it is only usable for Berlin, DE.
+</p>
+
+<h3>Data Science Methodology</h3>
+<p><a href="https://github.com/build-week-optimal-pricing/Data-science/blob/master/ipynb/exploratory-analysis-1.ipynb">See the primary notebook here</a></p>
+<p>
+  Data was retrieved from <a href="http://insideairbnb.com/get-the-data.html">http://insideairbnb.com/get-the-data.html</a>
+  on February 1, 2020. AirBnB freely offers detailed listing information as well as summary listing information in csv format.
+  We downloaded 2 years worth of summary information for Berlin. We chose to use summary info rather than detailed info because
+  of inaccuracies found in the detailed info.
+</p>
+<p>
+  One of the primary challenges was getting our model to run with limited resources on a heroku hobby dyno.
+  
 </p>
 
 <h3> Visualizations </h3>
