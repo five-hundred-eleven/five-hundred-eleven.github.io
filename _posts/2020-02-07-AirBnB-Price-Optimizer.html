@@ -25,11 +25,12 @@
   of inaccuracies found in the detailed info.
 </p>
 <p>
-  We had to decide whether to use "neighborhood", which had 139 values, or "neighborhood group", which had 12 values.
-  We talked with the web devs about incorporating functionality that would allow the user to enter an address and
-  then look up the neighborhood, and <a href="https://optimalprice.stromsy.com/lookup-neighborhood?latitude=52.54425&longitude=13.39749">we even built an endpoint for looking up neighborhood given geographical coordinates</a>.
-  However, we ran into difficulties in using the Maps API and we did not finish this functionality. Therefore we
-  decided to use "neighborhood group" which was to be selected via dropdown instead of "neighborhood".
+  For features, we had to decide whether to use "neighborhood", which had 139 distinct values, or "neighborhood group", which had 12 distinct values.
+  We wanted to use "neighborhood" because of its higher specificity which would yield a better model. The challenge was figuring out how to get the neighborhood from the user.
+  We talked with the web devs about incorporating functionality for programmatically looking up the neighborhood from an address, and 
+  <a href="https://optimalprice.stromsy.com/lookup-neighborhood?latitude=52.54425&longitude=13.39749">we even built an endpoint for looking up neighborhood given geographical coordinates</a>.
+  Unfortunately however, we ran into difficulties in using the Maps API and we did not finish this functionality. Therefore for the final product we
+  decided to use "neighborhood group" which was to be simply selected via dropdown.
 </p>
 <p>
   The categorical variables we decided to use were "neighborhood group" and "room type". The continuous variables
