@@ -9,11 +9,15 @@ could more accuarately predict voting patterns.
 
 ### 2016 County Level Election Map
 ![2016 voting county map](https://stromsy.nfshost.com/content/voting_df.png)
+
 source: https://github.com/tonmcg/US_County_Level_Election_Results_08-16
+
 ### Population Density Map
 (yellow is more dense, purple is less dense)
 ![population density map](https://stromsy.nfshost.com/content/dens_df.png)
+
 source (population): https://www2.census.gov/
+
 source (land area): https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html
 
 ### Trends
