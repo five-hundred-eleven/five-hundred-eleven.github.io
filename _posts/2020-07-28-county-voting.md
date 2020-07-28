@@ -1,7 +1,3 @@
-# County Voting
-
-### Introduction
-
 This project is inspired by [this post about how well population density predicts voting](https://observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome).
 The author runs a logarithmic regression on population density vs voting patterns and finds that it
 has an R<sup>2</sup> score of 0.219, commenting that this is "not great". Then he creates a difference-from-trend
