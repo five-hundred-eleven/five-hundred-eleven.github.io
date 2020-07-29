@@ -7,6 +7,8 @@ difference tend to be ethnically African American or hispanic.
 I was interested in trying to replicate his work in Python and further determine if population density plus percent non-white population
 could more accuarately predict voting patterns.
 
+The source for my work can be found in this github repo: https://github.com/ekoly/county-voting
+
 ### 2016 County Level Election Map
 ![2016 voting county map](https://stromsy.nfshost.com/content/voting_df.png)
 
