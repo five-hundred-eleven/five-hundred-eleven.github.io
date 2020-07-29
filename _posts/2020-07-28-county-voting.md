@@ -24,7 +24,7 @@ source (land area): https://www.census.gov/library/publications/2011/compendia/u
 
 ### Trends
 I ran a RandomForestRegressor (max depth of 5 to minimize overfit) with population density as X and voting trends as y. This yielded an R<sup>2</sup> score of 0.315.
-This is higher than the author of the article's logarithmic regression. I then subtracted the predicted voting patterns
+This is higher than Low's logarithmic regression. I then subtracted the predicted voting patterns
 from the actual voting patterns and came up with the following choropleth.
 
 Blue means democratic voters are underestimated, red means republican voters are underestimated.
