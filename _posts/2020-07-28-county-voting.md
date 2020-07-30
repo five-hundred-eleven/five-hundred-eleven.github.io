@@ -32,7 +32,7 @@ Blue means democratic voters are underestimated, red means republican voters are
 
 The areas in the South East that underestimated Democrats are consistent with areas with high populations of African Americans or Hispanics.
 The following is a chloropleth map that shows high percentage of African Americans or
-Hispanics in green.
+Hispanics in yellow.
 ![difference from trend for population density and non-white](https://stromsy.nfshost.com/content/minorities.png)
 
 I ran a second RandomForestRegressor with population density and percent African American or Hispanic as X and voting trends as y.
