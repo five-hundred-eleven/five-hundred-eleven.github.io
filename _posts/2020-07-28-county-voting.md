@@ -2,7 +2,7 @@ This project is inspired by [this post about how well population density predict
 The author runs a logarithmic regression on population density vs voting patterns and finds that it
 has an R<sup>2</sup> score of 0.219, commenting that this is "not great". Then he creates a difference-from-trend
 chloropleth map of the actual voting patterns minus predicted voting patterns and notes that the areas with the largest
-difference tend to be ethnically African American or hispanic.
+difference tend to be African American or Hispanic.
 
 I was interested in trying to replicate his work in Python and further determine if population density plus percent non-white population
 could more accuarately predict voting patterns.
@@ -30,21 +30,18 @@ from the actual voting patterns and came up with the following choropleth.
 Blue means democratic voters are underestimated, red means republican voters are underestimated.
 ![difference from trend for population density](https://stromsy.nfshost.com/content/diff_df1.png)
 
-The areas in the South East that underestimated Democrats are consistent with areas with high populations of African Americans or Hispanics.
-The following is a chloropleth map that shows high percentage of African Americans or
+The areas in the South East that underestimated Democrats are consistent with areas with high populations of African Americans and/or Hispanics.
+The following is a chloropleth map that shows high percentage of African Americans and/or
 Hispanics in yellow.
 ![difference from trend for population density and non-white](https://stromsy.nfshost.com/content/minorities.png)
 
-I ran a second RandomForestRegressor with population density and percent African American or Hispanic as X and voting trends as y.
+I ran a second RandomForestRegressor with population density and percent African American and/or Hispanic as X and voting trends as y.
 This yielded an R<sup>2</sup> score of 0.559, a notable improvement over using just population density. This lead to
 the following difference-from-trend chloropleth:
 ![difference from trend for population density and non-white](https://stromsy.nfshost.com/content/diff_df2.png)
 
 The predictions in the South are much improved, but some other areas of the country are still quite far off or even worse than
-using only population density. Interestingly, many ethnically diverse regions still underestimate Democratic voting, and many predominantly white
-regions still underestimate Republican voting. This suggests that whites in diverse areas are more likely to vote Democrat
-and non-whites in predominantly white areas are more likely to vote Republican. This does not hold true in the North East and Vermont in particular
-is entirely much more blue than its population density and ethnicity would suggest. 
+using only population density. Interestingly, many racially/ethnically diverse regions still underestimate Democratic voting, and many predominantly white or Asian American regions still underestimate Republican voting. This suggests that whites or Asian Americans in diverse areas are more likely to vote Democrat, while African Americans and Hispanics in some regions are more likely to vote Republican. Notable exceptions are the North East, Colorado and the West Coast. Vermont in particular is entirely much more blue than its population density and racial-ethnic composition would suggest. 
 
 ### Conclusions
 The R<sup>2</sup> scores suggest that there is a medium correlation between population density and voting as well as between
