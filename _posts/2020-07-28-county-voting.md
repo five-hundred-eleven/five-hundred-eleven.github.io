@@ -1,8 +1,8 @@
 This project is inspired by [this post about how well population density predicts voting](https://observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome).
 Jake Low runs a logarithmic regression on population density vs voting patterns and finds that it
 has an R<sup>2</sup> score of 0.219, commenting that this is "not great". Then he creates a difference-from-trend
-chloropleth map of the actual voting patterns minus predicted voting patterns and notes that the areas with the largest
-difference tend to be African American or non-white Hispanic.
+chloropleth map of the actual voting patterns minus predicted voting patterns, and he notes that the areas with the largest
+difference tend to have high percantages of African Americans or non-white Hispanics.
 
 I was curious if I could run a regression with `X = (population density, percent African American or non-white Hispanic)` and acheive a higher R<sup>2</sup> score.
 
