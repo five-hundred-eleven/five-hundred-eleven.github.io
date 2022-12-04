@@ -10,4 +10,4 @@ I currently work as an engineer at ScienceLogic, where I develop Python software
 
 The website name "stromsy" is derived from "Straumsey" (meaning "stormy seas"), which was the name of an island encountered by Lief Erikson. It is mentioned in [The Saga of Erik the Red](https://sagadb.org/eiriks_saga_rauda.en).
 
-<img src="img/vikings_at_straumsey_banner-9.png" alt="Vikings at Straumsey" title="Vikings at Straumsey" width="100%" />
+<img src="/img/vikings_at_straumsey_banner-9.png" alt="Vikings at Straumsey" title="Vikings at Straumsey" width="100%" />
