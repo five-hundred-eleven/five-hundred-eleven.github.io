@@ -1,11 +1,8 @@
-# Five One One BPlus
-
-### Overview
-
-See [https://github.com/ekoly/five_one_one_bplus](https://github.com/ekoly/five_one_one_bplus).
 
 This is a practice project to familiarize myself with Python's C API. The goal
 is to implement a B-Plus Tree in C that is usable in Python.
+
+See [https://github.com/ekoly/five_one_one_bplus](https://github.com/ekoly/five_one_one_bplus).
 
 ### Status
 
