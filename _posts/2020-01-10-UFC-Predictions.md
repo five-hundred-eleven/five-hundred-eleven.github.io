@@ -10,7 +10,7 @@ The purpose of this project was to use data analysis to determine who would win.
 
 
 ### Insights
-For full methodology, consult [this notebook](https://github.com/ekoly/ufc-fight-prediction/blob/master/ipynb/ufc-predictions.ipynb).
+For full methodology, consult [this notebook](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/ipynb/ufc-predictions.ipynb).
 
 Each fight was divided into two rows- one focusing on the red fighter and another focusing on the blue fighter. The target was a column called "is_winner", which is True if the fighter won or False if the fighter lost or if the fight ended in a tie. The baseline accuracy by choosing the majority class ("lose or tie") every time was 50.81%.
 
@@ -37,18 +37,18 @@ Here are some notes to help you interpret it:
 * "att" usually means attempts
 * "td" usually means takedowns
 
-![positive features](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/positive-features.png?raw=true)
+![positive features](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/img/positive-features.png?raw=true)
 
 ### Negative Features
 
 This graphic shows features that caused predictions to become worse when included in the analysis.
 
-![negative features](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/negative-features.png?raw=true)
+![negative features](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/img/negative-features.png?raw=true)
 
 ### Isolated Partial Dependance Plots
 
 The following plots show the likelyhood of a win based on individual features. Higher y-values represent higher likelyhood of winning the fight.
 
-![age ratio](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/age-ratio.png?raw=true)
-![reach ratio](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/reach-ratio.png?raw=true)
-![current win streak](https://github.com/ekoly/ufc-fight-prediction/blob/master/img/current-win-streak.png?raw=true)
+![age ratio](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/img/age-ratio.png?raw=true)
+![reach ratio](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/img/reach-ratio.png?raw=true)
+![current win streak](https://github.com/five-hundred-eleven/ufc-fight-prediction/blob/master/img/current-win-streak.png?raw=true)

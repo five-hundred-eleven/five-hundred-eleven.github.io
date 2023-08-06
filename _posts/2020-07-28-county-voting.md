@@ -6,7 +6,7 @@ difference tend to have high percantages of African Americans or non-white Hispa
 
 I was curious if I could run a regression with `X = (population density, percent African American or non-white Hispanic)` and acheive a higher R<sup>2</sup> score.
 
-The source for my work can be found in this github repo: https://github.com/ekoly/county-voting
+The source for my work can be found in this github repo: https://github.com/five-hundred-eleven/county-voting
 
 ### 2016 County Level Election Map
 ![2016 voting county map](https://stromsy.nfshost.com/content/voting_df.png)

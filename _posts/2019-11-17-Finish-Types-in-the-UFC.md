@@ -80,6 +80,6 @@ Some of the trends are clearly due to rule changes in the UFC. For example early
 Brazil has always had a high percentage of wins, but in recent years Russian athletes have been the most dominant.
 
 ## Resources
-* [Notebook](https://github.com/ekoly/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
+* [Notebook](https://github.com/five-hundred-eleven/DS-Unit-1-Build/blob/master/ipynb/explore_data.ipynb)
 * [Fight Data from Kaggle](https://www.kaggle.com/rajeevw/ufcdata)
 * [Fighter Data from Sherdog](https://docs.google.com/spreadsheets/d/1z3QX0uWXv-XHX2Nfuj6zZHrfEeXI3A9CKWkrGaBzB8s/edit#gid=0)
